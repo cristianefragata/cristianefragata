@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="center">
+  <img src="banner.png" >
+</p>
 
-<!--
-**cristianefragata/cristianefragata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I? 
+- 👷🏻‍♀️ BSc in Civil Engineering - UFRGS.
 
-Here are some ideas to get you started:
+**Skills**
+- 🐍 Python
+- 📊 Power BI
+- 🤖 Machine Learning
+- 📉 Data Visualization
+- 🗺 Geoprocessing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Where to find me:**
+- [LinkedIn](https://www.linkedin.com/in/cristiane-fragata-a89211a3/)
+- [Medium](https://cristianefragata.medium.com/)
+
+**Projects:**
+- A Beginner’s Guide: file import and concatenation in Python: https://bit.ly/34f0v0z
+---
