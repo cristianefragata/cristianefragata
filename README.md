@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" >
+  <img src="banner_v2.png" >
 </p>
 
 ## Who am I? 
