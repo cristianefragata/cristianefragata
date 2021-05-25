@@ -13,7 +13,7 @@
 - 🗺 Geoprocessing
 
 **Where to find me:**
-- [LinkedIn](https://www.linkedin.com/in/cristiane-fragata-a89211a3/)
+- [LinkedIn](https://www.linkedin.com/in/cristiane-fragata-a89211a3/?locale=en_US)
 - [Medium](https://cristianefragata.medium.com/)
 
 **Projects:**
