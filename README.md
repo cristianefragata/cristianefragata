@@ -3,7 +3,8 @@
 </p>
 
 ## Who am I? 
-- 👷🏻‍♀️ BSc in Civil Engineering - UFRGS.
+- 👷🏻‍♀️ BSc in Civil Engineering - UFRGS (2019).
+- 🇩🇪 Exchange Student - RWTH Aachen (2015/2016)
 
 **Skills**
 - 🐍 Python
