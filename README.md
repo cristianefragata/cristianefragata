@@ -19,4 +19,5 @@
 
 **Projects:**
 - A Beginner’s Guide: file import and concatenation in Python: https://bit.ly/34f0v0z
+- Machine Learning: bias and variance tradeoff: https://bit.ly/2RSInHA
 ---
