@@ -3,8 +3,10 @@
 </p>
 
 ## Who am I? 
-- 👷🏻‍♀️ BSc in Civil Engineering - UFRGS (2019).
-- 🇩🇪 Exchange Student - RWTH Aachen (2015/2016)
+- PhD candidate - IHE Delft/TU Delft ( 2023 - Present)
+- MSc in Flood Risk Management (Erasmus Mundus Programme (2021 - 2023)
+- BSc in Civil Engineering - UFRGS (2012 - 2018).
+- Exchange Student - RWTH Aachen (2015 - 2016)
 
 **Skills**
 - 🐍 Python
